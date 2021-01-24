@@ -1,8 +1,8 @@
 module.exports = {
-    "token": "NzY2NzQzMjQ4NzM0OTEyNTUz.X4nzSw.kU0pRPsTha7wH_iaUc7D3P0zvpA", //token
+    "token": "", //token
     "prefix": "!", // prefix
     "color": "#2B3FD3", // the color for embeds within the bot
-    "mainServer": "802986286071414834",
+    "mainServer": "802986286071414834", // main server id
     "logChannel": "802987029021065276", // put the id of the channel you want the bot to send logs to
     "serverLogo": "https://cdn.discordapp.com/icons/799813605440487445/db39076804dfbff70939b434e35a2536.webp?size=128",
     "noEmoji": ":no_entry_sign:",
